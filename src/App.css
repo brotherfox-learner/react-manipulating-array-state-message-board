@@ -40,6 +40,8 @@ body {
   background-color: var(--highlight-color);
   padding: 20px;
   border-radius: 15px;
+  min-width: 500px;
+  max-width: 500px;
 }
 
 .message-text-input {
